@@ -2,7 +2,7 @@
 
 Contributor: Kharis Sulistiyono  
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ACYNA5XNUGBUL
-Tags: post, posts, uploader, meta box, custom meta box, image uploader   
+Tags: post, posts, uploader, meta box, custom meta box, image uploader, image, images   
 Requires at least: 3.0  
 Tested up to: 3.8  
 Stable tag: 1.1
@@ -13,7 +13,7 @@ Simple WordPress plugin adds image uploader meta box.
 
 == Description ==
 
-Sometimes only single featured image is not enough. So you can have one more by using this plugin. It is just 7 kylobytes PHP file which adds image uploader field under post editor.   
+Sometimes only single featured image is not enough. So you can have one more by using this plugin. It is just 7 kilobytes PHP file which adds image uploader field under post editor.   
 
 = Installation =
 
