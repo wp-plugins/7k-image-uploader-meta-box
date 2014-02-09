@@ -20,7 +20,7 @@ Sometimes only single featured image is not enough. So you can have one more by 
 1. Download the 7K Image Uploader Meta Box Plugin.
 2. In your WordPress Administration, go to Plugins > Add New > Upload, and select the plugin ZIP file.
 3. Activate the plugin.
-7. Done! The image uploader meta box will appears on add/edit post (Check the <a href="http://wordpress.org/plugins/7k-image-uploader-meta-box/screenshots/">screenshots</a>).
+7. Done! The image uploader meta box will appear on add/edit post (Check the <a href="http://wordpress.org/plugins/7k-image-uploader-meta-box/screenshots/">screenshots</a>).
 
 Printing the image output is very simple. Just use this code in your template file.
 
