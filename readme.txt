@@ -36,6 +36,10 @@ This very first release doesn't support custom post type. Worry not, for the nex
 
 Contact the plugin author: <a href="http://kharissulistiyono.com/">Kharis Sulistiyono</a>
 
+= Developer =
+
+Are you a developer want to contribute to develop this plugin? Go to <a href="https://github.com/kharissulistiyo/7K-Image-Uploader-Meta-Box">GitHub page</a>.
+
 == Installation ==
 
 1. Download the 7K Image Uploader Meta Box Plugin.
