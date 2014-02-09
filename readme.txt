@@ -13,6 +13,13 @@ Simple WordPress plugin adds image uploader meta box.
 
 == Description ==
 
+= Installation =
+
+1. Download the 7K Image Uploader Meta Box Plugin.
+2. In your WordPress Administration, go to Plugins > Add New > Upload, and select the plugin ZIP file.
+3. Activate the plugin.
+7. The image uploader meta box will appears on add/edit post.
+
 Printing the image output is very simple. Just use this code in your template file.
 
 <code>
@@ -22,6 +29,10 @@ echo $image;
 </code>
 
 This very first release doesn't support custom post type. Worry not, for the next version it does.
+
+= Support =
+
+Contact the plugin author: <a href="http://kharissulistiyono.com/">Kharis Sulistiyono</a>
 
 == Installation ==
 
