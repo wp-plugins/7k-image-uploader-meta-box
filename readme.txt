@@ -2,7 +2,7 @@
 
 Contributor: Kharis Sulistiyono  
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ACYNA5XNUGBUL
-Tags: posts, uploader, meta box, custom meta box, image uploader   
+Tags: post, posts, uploader, meta box, custom meta box, image uploader   
 Requires at least: 3.0  
 Tested up to: 3.8  
 Stable tag: 1.1
