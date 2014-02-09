@@ -24,7 +24,7 @@ Printing the image output is very simple. Just use this code in your template fi
 
 <code>
 $id = get_post_meta($post->ID, 'iumb', true);
-$image = wp_get_attachment_image_src($id, 'full-size');';
+$image = wp_get_attachment_image_src($id, 'full-size');
 echo $image;
 </code>
 
